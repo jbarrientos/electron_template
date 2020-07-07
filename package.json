@@ -15,7 +15,7 @@
   "author": "shaack",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^1.8.8"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
